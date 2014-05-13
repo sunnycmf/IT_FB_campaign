@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='UTF-8'?>
+ 
+<settings>	
+
+	<number_of_rows>12</number_of_rows>
+	
+	<thumb_base_width>154</thumb_base_width>
+	<thumb_base_height>154</thumb_base_height>
+	
+	<video_default_width>800</video_default_width>
+	<video_default_height>450</video_default_height>
+	
+	<show_thumb_title>no</show_thumb_title>
+	<show_grayscale_thumb>no</show_grayscale_thumb>
+	<show_dropshadow>no</show_dropshadow>
+	
+	<show_scrollbar_buttons>no</show_scrollbar_buttons>
+	<show_side_buttons>no</show_side_buttons>
+	<enable_mouse_wheel>yes</enable_mouse_wheel>
+	
+	<vertical_margin_size>5</vertical_margin_size>
+	
+	<thumb_border_size>0</thumb_border_size>
+	
+	<space_between_thumbs_horizontal>5</space_between_thumbs_horizontal>
+	<space_between_thumbs_vertical>5</space_between_thumbs_vertical>
+	
+	<scrollbar_border_radius>0</scrollbar_border_radius>
+	<buttons_border_radius>0</buttons_border_radius>
+	<buttons_distance_offset>-4</buttons_distance_offset>
+	
+	<thumb_title_background_color>#FFFFFF</thumb_title_background_color>
+	<thumb_title_background_transparency>1</thumb_title_background_transparency>
+	<thumb_title_background_text_width>no</thumb_title_background_text_width>
+	
+	<thumb_description_background_color>#FFFFFF</thumb_description_background_color>
+	<thumb_description_background_transparency>.8</thumb_description_background_transparency>
+	
+  	<thumb_border_normal_color>#FFFFFF</thumb_border_normal_color>
+  	<thumb_border_selected_color>#FFFFFF</thumb_border_selected_color>
+	
+	<thumb_video_play_button>load/skin1/blank.png</thumb_video_play_button>
+	<thumb_sound_play_button>load/skin1/blank.png</thumb_sound_play_button>
+	
+	<next_button_icon_normal_state>load/skin1/nextIconNormalState.png</next_button_icon_normal_state>
+	<next_button_icon_selected_state>load/skin1/nextIconSelectedState.png</next_button_icon_selected_state>
+	<prev_button_icon_normal_state>load/skin1/prevIconNormalState.png</prev_button_icon_normal_state>
+	<prev_button_icon_selected_state>load/skin1/prevIconSelectedState.png</prev_button_icon_selected_state>
+	
+	<side_next_button_icon_normal_state>load/skin1/sideNextIconNormalState.png</side_next_button_icon_normal_state>
+	<side_next_button_icon_selected_state>load/skin1/sideNextIconSelectedState.png</side_next_button_icon_selected_state>
+	<side_prev_button_icon_normal_state>load/skin1/sidePrevIconNormalState.png</side_prev_button_icon_normal_state>
+	<side_prev_button_icon_selected_state>load/skin1/sidePrevIconSelectedState.png</side_prev_button_icon_selected_state>
+	
+	<scrollbar_handler_color>#000000</scrollbar_handler_color>
+	<scrollbar_track_color>#CCCCCC</scrollbar_track_color>
+	
+<images>
+
+	<image>
+		<image_path>load/thumb/01.jpg</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+<image>
+		<image_path>load/thumb/05.jpg</image_path>
+						<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/05.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/08_ani.gif</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/12.jpg</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+			<image>
+		<image_path>load/thumb/15.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/15.jpg</content>
+	</image>
+	
+		<image>
+		<image_path>load/thumb/21.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/21.jpg</content>
+	</image>
+	
+		<image>
+		<image_path>load/thumb/24.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/24.jpg</content>
+	</image>
+	
+		<image>
+		<image_path>load/thumb/28.jpg</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+		<image>
+		<image_path>load/thumb/31.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/31.jpg</content>
+	</image>
+	
+		<image>
+		<image_path>load/thumb/35.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/35.jpg</content>
+	</image>
+	
+		<image>
+		<image_path>load/thumb/37_ani.gif</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+	<!-- NEXT COLUMN <-->
+	
+		<image>
+		<image_path>load/thumb/02_ani.gif</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/09.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/09.jpg</content>
+	</image>
+	
+		<image>
+		<image_path>load/thumb/13.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/13.jpg</content>
+	</image>
+	
+	
+		<image>
+		<image_path>load/thumb/22.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/22.jpg</content>
+	</image>
+	
+	
+		<image>
+		<image_path>load/thumb/25_ani.gif</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+	
+		<image>
+		<image_path>load/thumb/29.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/29.jpg</content>
+	</image>
+	
+
+		<image>
+		<image_path>load/thumb/32.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+			<content_type target="_blank">link</content_type>
+		<content>https://www.facebook.com/pages/Mini-Cream/1410169865873563</content>
+	</image>
+	
+	
+		<image>
+		<image_path>load/thumb/38.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/38.jpg</content>
+	</image>
+	
+		<!-- NEXT COLUMN <-->
+
+	<image>
+		<image_path>load/thumb/10.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/10.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/14_ani.gif</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/16.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/16.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/19.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/19.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/23.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/23.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/26.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/26.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/39.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/39.jpg</content>
+	</image>
+	
+			<!-- NEXT COLUMN <-->
+
+	<image>
+		<image_path>load/thumb/03.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/03.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/06.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/06.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/11.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/11.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/17.jpg</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/20.jpg</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/33.jpg</image_path>
+		<content_type></content_type>
+		<content></content>
+	</image>
+	
+<image>
+		<image_path>load/thumb/36.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/36.jpg</content>
+	</image>
+	
+			<!-- NEXT COLUMN <-->
+<image>
+		<image_path>load/thumb/04.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/04.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/07.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/07.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/18.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/18.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/27.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/27.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/30_ani.gif</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/30.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumb/34.jpg</image_path>
+								<title><![CDATA[<div class="fwdTitleTextSkin1">Mini Cream x BABY DOPPY&#169</div>]]></title>
+		<content_type>image</content_type>
+		<content>load/image/34.jpg</content>
+	</image>
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+</images>
+	
+	
+	
+</settings>
+

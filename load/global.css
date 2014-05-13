@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* gallery global CSS document */
+
+.container {
+	width:800px
+	max-width:90%
+}
+
+p.ex
+{
+	height:100px;
+	width:800px;
+	
+}
+
+#myDiv {
+	border: none;
+}
+
+.fwdTitleTextSkin1{
+	font-family:Arial, Helvetica, sans-serif !important;
+	font-size:10px !important;
+	color:#000000 !important;
+	font-weight:bold !important;
+	line-height:16px !important;
+	padding:4px;
+	padding-left:8px;
+	padding-right:8px;
+}
+
+.fwdDescriptionTextSkin1{
+	font-family:Verdana, Helvetica, sans-serif !important;
+	font-size:9px !important;
+	color:#222222 !important;
+	line-height:16px !important;
+	padding:4px;
+	padding-left:8px;
+	padding-right:8px;
+}
+
+.fwdTitleTextSkin3{
+	font-family:Arial, Helvetica, sans-serif !important;
+	font-size:12px !important;
+	color:#FFFFFF !important;
+	font-weight:bold !important;
+	line-height:18px !important;
+	padding:4px;
+	padding-top:4px;
+	padding-left:8px;
+	padding-right:8px;
+	padding-bottom:0px;
+}
+
+.fwdDescriptionTextSkin3{
+	font-family:Verdana, Helvetica, sans-serif !important;
+	font-size:9px !important;
+	color:#CCCCCC !important;
+	line-height:16px !important;
+	padding:4px;
+	padding-left:8px;
+	padding-right:8px;
+	padding-top:2px;
+	padding-bottom:6px;
+}
+
+#bottom{
+	width: 800px;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+#bottom img{
+	margin-top: 10px;
+}

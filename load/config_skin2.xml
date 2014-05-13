@@ -1,0 +1,357 @@
+<?xml version='1.0' encoding='UTF-8'?>
+ 
+<settings>	
+	<number_of_rows>4</number_of_rows>
+	
+	<thumb_base_width>240</thumb_base_width>
+	<thumb_base_height>160</thumb_base_height>
+	
+	<video_default_width>800</video_default_width>
+	<video_default_height>450</video_default_height>
+	
+	<show_thumb_title>yes</show_thumb_title>
+	<show_grayscale_thumb>no</show_grayscale_thumb>
+	<show_dropshadow>yes</show_dropshadow>
+	
+	<show_scrollbar_buttons>yes</show_scrollbar_buttons>
+	<show_side_buttons>yes</show_side_buttons>
+	<enable_mouse_wheel>yes</enable_mouse_wheel>
+	
+	<vertical_margin_size>10</vertical_margin_size>
+	
+	<thumb_border_size>4</thumb_border_size>
+	
+	<space_between_thumbs_horizontal>10</space_between_thumbs_horizontal>
+	<space_between_thumbs_vertical>10</space_between_thumbs_vertical>
+	
+	<scrollbar_border_radius>3</scrollbar_border_radius>
+	<buttons_border_radius>26</buttons_border_radius>
+	<buttons_distance_offset>-4</buttons_distance_offset>
+	
+	<thumb_title_background_color>#00CCFF</thumb_title_background_color>
+	<thumb_title_background_transparency>1</thumb_title_background_transparency>
+	<thumb_title_background_text_width>no</thumb_title_background_text_width>
+	
+	<thumb_description_background_color>#FFFFFF</thumb_description_background_color>
+	<thumb_description_background_transparency>.8</thumb_description_background_transparency>
+	
+  	<thumb_border_normal_color>#FFFFFF</thumb_border_normal_color>
+  	<thumb_border_selected_color>#EEEEEE</thumb_border_selected_color>
+	
+	<thumb_video_play_button>load/skin2/video.png</thumb_video_play_button>
+	<thumb_sound_play_button>load/skin2/sound.png</thumb_sound_play_button>
+	
+	<next_button_icon_normal_state>load/skin2/nextIconNormalState.png</next_button_icon_normal_state>
+	<next_button_icon_selected_state>load/skin2/nextIconSelectedState.png</next_button_icon_selected_state>
+	<prev_button_icon_normal_state>load/skin2/prevIconNormalState.png</prev_button_icon_normal_state>
+	<prev_button_icon_selected_state>load/skin2/prevIconSelectedState.png</prev_button_icon_selected_state>
+	
+	<side_next_button_icon_normal_state>load/skin2/sideNextIconNormalState.png</side_next_button_icon_normal_state>
+	<side_next_button_icon_selected_state>load/skin2/sideNextIconSelectedState.png</side_next_button_icon_selected_state>
+	<side_prev_button_icon_normal_state>load/skin2/sidePrevIconNormalState.png</side_prev_button_icon_normal_state>
+	<side_prev_button_icon_selected_state>load/skin2/sidePrevIconSelectedState.png</side_prev_button_icon_selected_state>
+	
+	<scrollbar_handler_color>#00CCFF</scrollbar_handler_color>
+	<scrollbar_track_color>#FFFFFF</scrollbar_track_color>
+	
+<images>
+
+	<image>
+		<image_path>load/thumbs_skin_2/2.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">FULLY XML DRIVEN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">Fully XML driven, this makes it really easy to install and change.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/2.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/3.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MODIFIABLE COLOR THEME AND SKIN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">All the colors of the background, scrollbar, borders, buttons, texts etc can be changed, also the buttons graphics can be of any shape or size.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/3.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/13medium.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">OPTIONAL THUMB DROP SHADOW</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The thumb drop shadow can be disabled if you don't need it.</div>]]></description>
+		<content_type>audio</content_type>
+		<content>load/audio/sound</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/5.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">FULL CSS SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The title and description texts can be styled with CSS, this mean that you can change the font, colors, padding, margins etc.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/5.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/1big.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MULTIMEDIA LIGHBOX SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">On thumb click or touch it can open a simple lightbox or an external link, the lightbox content can be a bigger image, a sound player, or video player which can play videos from youtube, vimeo or streming videos from your local computer or your server.</div>]]></description>
+		<content_type>audio</content_type>
+		<content>load/audio/sound</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/7.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">UNLIMITED NUMBER OF THUMBS</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">You can add as many thumb images as you need, the size and shape of the thumbs can be different.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/7.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/8.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MODIFIABLE NUMBER OF ROWS</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The number of rows can be set to any number you like.</div>]]></description>
+		<content_type target="_blank">link</content_type>
+		<content>http://www.google.com</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/9.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">EXCELENT MOBILE PERFORMANCE</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">It was coded and optimized for mobile devices and it is 100% mobile compatible and of course it will run just as great on PC.</div>]]></description>
+		<content_type target="_blank">link</content_type>
+		<content>http://www.google.com/</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/14medium.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">CUSTOMIZABLE THUMB BORDER</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The border size and color can be set, also the thumb border can be removed if you don't need it</div>]]></description>
+		<content_type>video</content_type>
+		<content>load/video/video</content>
+		<mobile_content>load/video/video_mobile</mobile_content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/4big.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MULTIMEDIA LIGHBOX SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">On thumb click or touch it can open a simple lightbox or an external link, the lightbox content can be a bigger image, a sound player, or video player which can play videos from youtube, vimeo or streming videos from your local computer or your server.</div>]]></description>
+		<content_type>vimeo</content_type>
+		<content>http://vimeo.com/49839685</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/10.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">OPEN A NEW PAGE ON CLICK</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">When a thumb is clicked a new page can be opened, the link and target for can be specified.</div>]]></description>
+		<content_type target="_blank">link</content_type>
+		<content>http://www.google.com</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/12.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">WORDPRESS SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The gallery can be embedded in wordpress, how to do this is explained in the help files.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/12.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/16medium.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">HARDWARE ACCELERATION SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">This gallery is using the GPU (hardware acceleration) for rendering the HTML5 elements.</div>]]></description>
+		<content_type>audio</content_type>
+		<content>load/audio/sound</content>
+	</image>
+
+	<image>
+		<image_path>load/thumbs_skin_2/2.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">FULLY XML DRIVEN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">Fully XML driven, this makes it really easy to install and change.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/2.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/3.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MODIFIABLE COLOR THEME AND SKIN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">All the colors of the background, scrollbar, borders, buttons, texts etc can be changed, also the buttons graphics can be of any shape or size.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/3.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/11big.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MULTIMEDIA LIGHBOX SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">On thumb click or touch it can open a simple lightbox or an external link, the lightbox content can be a bigger image, a sound player, or video player which can play videos from youtube, vimeo or streming videos from your local computer or your server.</div>]]></description>
+		<content_type>youtube</content_type>
+		<content>http://www.youtube.com/watch?v=F6giWySofrk</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/13medium.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">OPTIONAL THUMB DROP SHADOW</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The thumb drop shadow can be disabled if you don't need it.</div>]]></description>
+		<content_type>audio</content_type>
+		<content>load/audio/sound</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/15medium.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">EASY TO CONFIGURE AND INSTALL</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The gallery can be easily configured and install, full documentation provided in the download files.</div>]]></description>
+		<content_type>youtube</content_type>
+		<content>http://www.youtube.com/watch?v=F6giWySofrk</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/2.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">FULLY XML DRIVEN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">Fully XML driven, this makes it really easy to install and change.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/2.jpg</content>
+	</image>
+
+	
+	<image>
+		<image_path>load/thumbs_skin_2/3.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MODIFIABLE COLOR THEME AND SKIN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">All the colors of the background, scrollbar, borders, buttons, texts etc can be changed, also the buttons graphics can be of any shape or size.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/3.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/5.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">FULL CSS SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The title and description texts can be styled with CSS, this mean that you can change the font, colors, padding, margins etc.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/5.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/1big.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MULTIMEDIA LIGHBOX SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">On thumb click or touch it can open a simple lightbox or an external link, the lightbox content can be a bigger image, a sound player, or video player which can play videos from youtube, vimeo or streming videos from your local computer or your server.</div>]]></description>
+		<content_type>audio</content_type>
+		<content>load/audio/sound</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/7.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">UNLIMITED NUMBER OF THUMBS</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">You can add as many thumb images as you need, the size and shape of the thumbs can be different.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/7.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/8.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MODIFIABLE NUMBER OF ROWS</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The number of rows can be set to any number you like.</div>]]></description>
+		<content_type target="_blank">link</content_type>
+		<content>http://www.google.com</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/9.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">EXCELENT MOBILE PERFORMANCE</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">It was coded and optimized for mobile devices and it is 100% mobile compatible and of course it will run just as great on PC.</div>]]></description>
+		<content_type target="_blank">link</content_type>
+		<content>http://www.google.com/</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/14medium.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">CUSTOMIZABLE THUMB BORDER</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The border size and color can be set, also the thumb border can be removed if you don't need it</div>]]></description>
+		<content_type>video</content_type>
+		<content>load/video/video</content>
+		<mobile_content>load/video/video_mobile</mobile_content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/10.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">OPEN A NEW PAGE ON CLICK</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">When a thumb is clicked a new page can be opened, the link and target for can be specified.</div>]]></description>
+		<content_type target="_blank">link</content_type>
+		<content>http://www.google.com</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/12.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">WORDPRESS SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">The gallery can be embedded in wordpress, how to do this is explained in the help files.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/12.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/4big.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MULTIMEDIA LIGHBOX SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">On thumb click or touch it can open a simple lightbox or an external link, the lightbox content can be a bigger image, a sound player, or video player which can play videos from youtube, vimeo or streming videos from your local computer or your server.</div>]]></description>
+		<content_type>vimeo</content_type>
+		<content>http://vimeo.com/49839685</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/16medium.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">HARDWARE ACCELERATION SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">This gallery is using the GPU (hardware acceleration) for rendering the HTML5 elements.</div>]]></description>
+		<content_type>audio</content_type>
+		<content>load/audio/sound</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/6big.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MULTIMEDIA LIGHBOX SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">On thumb click or touch it can open a simple lightbox or an external link, the lightbox content can be a bigger image, a sound player, or video player which can play videos from youtube, vimeo or streming videos from your local computer or your server.</div>]]></description>
+		<content_type>video</content_type>
+		<content>load/video/video</content>
+		<mobile_content>load/video/video_mobile</mobile_content>
+	</image>
+	
+	
+	<image>
+		<image_path>load/thumbs_skin_2/2.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">FULLY XML DRIVEN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">Fully XML driven, this makes it really easy to install and change.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/2.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/3.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MODIFIABLE COLOR THEME AND SKIN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">All the colors of the background, scrollbar, borders, buttons, texts etc can be changed, also the buttons graphics can be of any shape or size.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/3.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/11big.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MULTIMEDIA LIGHBOX SUPPORT</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">On thumb click or touch it can open a simple lightbox or an external link, the lightbox content can be a bigger image, a sound player, or video player which can play videos from youtube, vimeo or streming videos from your local computer or your server.</div>]]></description>
+		<content_type>youtube</content_type>
+		<content>http://www.youtube.com/watch?v=F6giWySofrk</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/2.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">FULLY XML DRIVEN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">Fully XML driven, this makes it really easy to install and change.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/2.jpg</content>
+	</image>
+	
+	<image>
+		<image_path>load/thumbs_skin_2/3.jpg</image_path>
+		<title><![CDATA[<div class="fwdTitleTextSkin1">MODIFIABLE COLOR THEME AND SKIN</div>]]></title>
+		<description><![CDATA[<div class="fwdDescriptionTextSkin1">All the colors of the background, scrollbar, borders, buttons, texts etc can be changed, also the buttons graphics can be of any shape or size.</div>]]></description>
+		<content_type>image</content_type>
+		<content>load/images/3.jpg</content>
+	</image>
+	
+</images>
+	
+	
+	
+</settings>
+
